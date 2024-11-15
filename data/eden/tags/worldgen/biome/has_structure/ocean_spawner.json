@@ -1,0 +1,23 @@
+{
+    "values": [
+        { "id": "minecraft:deep_lukewarm_ocean","required": false},
+        { "id": "minecraft:deep_ocean","required": false},
+        { "id": "minecraft:frozen_ocean","required": false},
+        { "id": "minecraft:deep_frozen_ocean","required": false},
+        { "id": "minecraft:warm_ocean","required": false},
+        { "id": "minecraft:ocean","required": false},
+        { "id": "minecraft:cold_ocean","required": false},
+        { "id": "minecraft:lukewarm_ocean","required": false},
+        { "id": "minecraft:deep_cold_ocean","required": false},
+
+        { "id": "eden:deep_lukewarm_ocean","required": false},
+        { "id": "eden:deep_ocean","required": false},
+        { "id": "eden:frozen_ocean","required": false},
+        { "id": "eden:deep_frozen_ocean","required": false},
+        { "id": "eden:warm_ocean","required": false},
+        { "id": "eden:ocean","required": false},
+        { "id": "eden:cold_ocean","required": false},
+        { "id": "eden:lukewarm_ocean","required": false},
+        { "id": "eden:deep_cold_ocean","required": false}
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "values": [
+        "minecraft:warm_ocean",
+        "minecraft:deep_lukewarm_ocean",
+        {"id": "eden:warm_ocean","required": false},
+        {"id": "eden:deep_lukewarm_ocean","required": false}
+    ]
+}

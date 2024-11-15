@@ -1,0 +1,20 @@
+{
+    "values": [
+        { "id": "minecraft:birch_forest","required": false},
+        { "id": "minecraft:old_growth_birch_forest","required": false},
+        { "id": "minecraft:flower_forest","required": false},
+        { "id": "minecraft:forest","required": false},
+        { "id": "minecraft:windswept_forest","required": false},
+
+        { "id": "eden:birch_forest","required": false},
+        { "id": "eden:old_growth_birch_forest","required": false},
+        { "id": "eden:flower_forest","required": false},
+        { "id": "eden:forest","required": false},
+        { "id": "eden:windswept_forest","required": false},
+
+        { "id": "terralith:cloud_forest","required": false},
+        { "id": "terralith:lavender_forest","required": false},
+        { "id": "terralith:snowy_maple_forest","required": false},
+        { "id": "terralith:wintry_forest","required": false}
+    ]
+}
