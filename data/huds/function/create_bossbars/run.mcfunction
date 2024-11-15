@@ -3,4 +3,4 @@ execute store result storage eden:temp huds.uuid_1 int 1 run data get entity @s 
 execute store result storage eden:temp huds.uuid_2 int 1 run data get entity @s UUID[2]
 execute store result storage eden:temp huds.uuid_3 int 1 run data get entity @s UUID[3]
 
-function huds:create_bossbar/add with storage eden:temp huds
+function huds:create_bossbars/add with storage eden:temp huds
