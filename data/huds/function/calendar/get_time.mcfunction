@@ -73,4 +73,4 @@ execute if score $month huds.calendar matches 10 run data modify storage eden:ca
 execute if score $month huds.calendar matches 11 run data modify storage eden:calendar global.month_name set value "November"
 execute if score $month huds.calendar matches 12 run data modify storage eden:calendar global.month_name set value "December"
 
-schedule function huds:get_time 1s
+schedule function huds:calendar/get_time 1s
